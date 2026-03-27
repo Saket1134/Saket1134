@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a developer passionate about Artificial Intelligence, Machine Learning, and Software Development.  <br>I enjoy building scalable applications and experimenting with deep learning models.<br><br>💻 Skills: Python, JavaScript, Machine Learning  <br>🧠 Interests: Deep Learning, Neural Networks, AI Research  <br>🚀 Currently working on Machine Learning and Web Development projects  <br>📚 Always learning new technologies and improving problem-solving skills.
+<br>I am a developer passionate about Artificial Intelligence, Machine Learning, and Software Development.  <br>I enjoy building scalable applications and experimenting with deep learning models.<br><br>💻 Skills: Python, JavaScript, Machine Learning,FastAPI  <br>🧠 Interests: Deep Learning, Neural Networks, AI Research  <br>🚀 Currently working on Machine Learning and Web Development projects  <br>📚 Always learning new technologies and improving problem-solving skills.
 
 
 ## 🌐 Socials:
